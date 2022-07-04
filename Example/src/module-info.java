@@ -1,0 +1,5 @@
+module Example {
+    opens Example;
+
+
+}

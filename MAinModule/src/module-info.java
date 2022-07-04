@@ -1,0 +1,3 @@
+module MAinModule {
+    requires Example;
+}

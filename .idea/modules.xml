@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Delivary/Delivary.iml" filepath="$PROJECT_DIR$/Delivary/Delivary.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Example/Example.iml" filepath="$PROJECT_DIR$/Example/Example.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Hello/Hello.iml" filepath="$PROJECT_DIR$/Hello/Hello.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HelloInArabic/HelloInArabic.iml" filepath="$PROJECT_DIR$/HelloInArabic/HelloInArabic.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HelloInEnglish/HelloInEnglish.iml" filepath="$PROJECT_DIR$/HelloInEnglish/HelloInEnglish.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Invoices/Invoices.iml" filepath="$PROJECT_DIR$/Invoices/Invoices.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MAinModule/MAinModule.iml" filepath="$PROJECT_DIR$/MAinModule/MAinModule.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MainHelloWorld/MainHelloWorld.iml" filepath="$PROJECT_DIR$/MainHelloWorld/MainHelloWorld.iml" />
+      <module fileurl="file://$PROJECT_DIR$/OCPMODULE/OCPMODULE.iml" filepath="$PROJECT_DIR$/OCPMODULE/OCPMODULE.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java-one-for-all.iml" filepath="$PROJECT_DIR$/java-one-for-all.iml" />
+    </modules>
+  </component>
+</project>
